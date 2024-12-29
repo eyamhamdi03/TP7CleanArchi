@@ -1,0 +1,6 @@
+@TPCleanArchitecture.Presentation_HostAddress = http://localhost:5038
+
+GET {{TPCleanArchitecture.Presentation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

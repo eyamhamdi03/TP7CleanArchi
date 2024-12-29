@@ -1,0 +1,496 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eya-pc\\Downloads\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eya-pc\\Downloads\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Infrastucture\\Migrations\\20241229205555_firstmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TPCleanArchitecture.Infrastucture\\Migrations\\20241229205555_firstmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED73A69D-FC96-4677-880A-3E0D01849C74}|TPCleanArchitecture.Infrastucture\\TPCleanArchitecture.Infrastructure.csproj|c:\\users\\eya-pc\\downloads\\tpcleanarchitecture.domain\\tpcleanarchitecture.domain\\tpcleanarchitecture.infrastucture\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED73A69D-FC96-4677-880A-3E0D01849C74}|TPCleanArchitecture.Infrastucture\\TPCleanArchitecture.Infrastructure.csproj|solutionrelative:tpcleanarchitecture.infrastucture\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E9BFF4-ADBB-462B-AA57-18C61794C3F4}|TPCleanArchitecture.Application\\TPCleanArchitecture.Application.csproj|c:\\users\\eya-pc\\downloads\\tpcleanarchitecture.domain\\tpcleanarchitecture.domain\\tpcleanarchitecture.application\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E9BFF4-ADBB-462B-AA57-18C61794C3F4}|TPCleanArchitecture.Application\\TPCleanArchitecture.Application.csproj|solutionrelative:tpcleanarchitecture.application\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E9BFF4-ADBB-462B-AA57-18C61794C3F4}|TPCleanArchitecture.Application\\TPCleanArchitecture.Application.csproj|c:\\users\\eya-pc\\downloads\\tpcleanarchitecture.domain\\tpcleanarchitecture.domain\\tpcleanarchitecture.application\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E9BFF4-ADBB-462B-AA57-18C61794C3F4}|TPCleanArchitecture.Application\\TPCleanArchitecture.Application.csproj|solutionrelative:tpcleanarchitecture.application\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED73A69D-FC96-4677-880A-3E0D01849C74}|TPCleanArchitecture.Infrastucture\\TPCleanArchitecture.Infrastructure.csproj|c:\\users\\eya-pc\\downloads\\tpcleanarchitecture.domain\\tpcleanarchitecture.domain\\tpcleanarchitecture.infrastucture\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED73A69D-FC96-4677-880A-3E0D01849C74}|TPCleanArchitecture.Infrastucture\\TPCleanArchitecture.Infrastructure.csproj|solutionrelative:tpcleanarchitecture.infrastucture\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED73A69D-FC96-4677-880A-3E0D01849C74}|TPCleanArchitecture.Infrastucture\\TPCleanArchitecture.Infrastructure.csproj|c:\\users\\eya-pc\\downloads\\tpcleanarchitecture.domain\\tpcleanarchitecture.domain\\tpcleanarchitecture.infrastucture\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED73A69D-FC96-4677-880A-3E0D01849C74}|TPCleanArchitecture.Infrastucture\\TPCleanArchitecture.Infrastructure.csproj|solutionrelative:tpcleanarchitecture.infrastucture\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E9BFF4-ADBB-462B-AA57-18C61794C3F4}|TPCleanArchitecture.Application\\TPCleanArchitecture.Application.csproj|c:\\users\\eya-pc\\downloads\\tpcleanarchitecture.domain\\tpcleanarchitecture.domain\\tpcleanarchitecture.application\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E9BFF4-ADBB-462B-AA57-18C61794C3F4}|TPCleanArchitecture.Application\\TPCleanArchitecture.Application.csproj|solutionrelative:tpcleanarchitecture.application\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2291EE42-334A-4401-AF04-F8592492FBA7}|TPCleanArchitecture.Presentation\\TPCleanArchitecture.Presentation.csproj|c:\\users\\eya-pc\\downloads\\tpcleanarchitecture.domain\\tpcleanarchitecture.domain\\tpcleanarchitecture.presentation\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2291EE42-334A-4401-AF04-F8592492FBA7}|TPCleanArchitecture.Presentation\\TPCleanArchitecture.Presentation.csproj|solutionrelative:tpcleanarchitecture.presentation\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DataBaseCleanArchitecture/True/SqlTable/dbo.CustomerFavoriteMovies.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713B3805-2881-4409-940A-4472F078BAB9}|TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain.csproj|c:\\users\\eya-pc\\downloads\\tpcleanarchitecture.domain\\tpcleanarchitecture.domain\\tpcleanarchitecture.domain\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{713B3805-2881-4409-940A-4472F078BAB9}|TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain.csproj|solutionrelative:tpcleanarchitecture.domain\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E9BFF4-ADBB-462B-AA57-18C61794C3F4}|TPCleanArchitecture.Application\\TPCleanArchitecture.Application.csproj|c:\\users\\eya-pc\\downloads\\tpcleanarchitecture.domain\\tpcleanarchitecture.domain\\tpcleanarchitecture.application\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E9BFF4-ADBB-462B-AA57-18C61794C3F4}|TPCleanArchitecture.Application\\TPCleanArchitecture.Application.csproj|solutionrelative:tpcleanarchitecture.application\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E9BFF4-ADBB-462B-AA57-18C61794C3F4}|TPCleanArchitecture.Application\\TPCleanArchitecture.Application.csproj|c:\\users\\eya-pc\\downloads\\tpcleanarchitecture.domain\\tpcleanarchitecture.domain\\tpcleanarchitecture.application\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E9BFF4-ADBB-462B-AA57-18C61794C3F4}|TPCleanArchitecture.Application\\TPCleanArchitecture.Application.csproj|solutionrelative:tpcleanarchitecture.application\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2291EE42-334A-4401-AF04-F8592492FBA7}|TPCleanArchitecture.Presentation\\TPCleanArchitecture.Presentation.csproj|c:\\users\\eya-pc\\downloads\\tpcleanarchitecture.domain\\tpcleanarchitecture.domain\\tpcleanarchitecture.presentation\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2291EE42-334A-4401-AF04-F8592492FBA7}|TPCleanArchitecture.Presentation\\TPCleanArchitecture.Presentation.csproj|solutionrelative:tpcleanarchitecture.presentation\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E9BFF4-ADBB-462B-AA57-18C61794C3F4}|TPCleanArchitecture.Application\\TPCleanArchitecture.Application.csproj|c:\\users\\eya-pc\\downloads\\tpcleanarchitecture.domain\\tpcleanarchitecture.domain\\tpcleanarchitecture.application\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E9BFF4-ADBB-462B-AA57-18C61794C3F4}|TPCleanArchitecture.Application\\TPCleanArchitecture.Application.csproj|solutionrelative:tpcleanarchitecture.application\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713B3805-2881-4409-940A-4472F078BAB9}|TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain.csproj|c:\\users\\eya-pc\\downloads\\tpcleanarchitecture.domain\\tpcleanarchitecture.domain\\tpcleanarchitecture.domain\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{713B3805-2881-4409-940A-4472F078BAB9}|TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain.csproj|solutionrelative:tpcleanarchitecture.domain\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713B3805-2881-4409-940A-4472F078BAB9}|TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain.csproj|c:\\users\\eya-pc\\downloads\\tpcleanarchitecture.domain\\tpcleanarchitecture.domain\\tpcleanarchitecture.domain\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{713B3805-2881-4409-940A-4472F078BAB9}|TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain.csproj|solutionrelative:tpcleanarchitecture.domain\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED73A69D-FC96-4677-880A-3E0D01849C74}|TPCleanArchitecture.Infrastucture\\TPCleanArchitecture.Infrastructure.csproj|c:\\users\\eya-pc\\downloads\\tpcleanarchitecture.domain\\tpcleanarchitecture.domain\\tpcleanarchitecture.infrastucture\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED73A69D-FC96-4677-880A-3E0D01849C74}|TPCleanArchitecture.Infrastucture\\TPCleanArchitecture.Infrastructure.csproj|solutionrelative:tpcleanarchitecture.infrastucture\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713B3805-2881-4409-940A-4472F078BAB9}|TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain.csproj|c:\\users\\eya-pc\\downloads\\tpcleanarchitecture.domain\\tpcleanarchitecture.domain\\tpcleanarchitecture.domain\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{713B3805-2881-4409-940A-4472F078BAB9}|TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain.csproj|solutionrelative:tpcleanarchitecture.domain\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2291EE42-334A-4401-AF04-F8592492FBA7}|TPCleanArchitecture.Presentation\\TPCleanArchitecture.Presentation.csproj|c:\\users\\eya-pc\\downloads\\tpcleanarchitecture.domain\\tpcleanarchitecture.domain\\tpcleanarchitecture.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2291EE42-334A-4401-AF04-F8592492FBA7}|TPCleanArchitecture.Presentation\\TPCleanArchitecture.Presentation.csproj|solutionrelative:tpcleanarchitecture.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED73A69D-FC96-4677-880A-3E0D01849C74}|TPCleanArchitecture.Infrastucture\\TPCleanArchitecture.Infrastructure.csproj|c:\\users\\eya-pc\\downloads\\tpcleanarchitecture.domain\\tpcleanarchitecture.domain\\tpcleanarchitecture.infrastucture\\migrations\\20241229123907_migration0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED73A69D-FC96-4677-880A-3E0D01849C74}|TPCleanArchitecture.Infrastucture\\TPCleanArchitecture.Infrastructure.csproj|solutionrelative:tpcleanarchitecture.infrastucture\\migrations\\20241229123907_migration0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2291EE42-334A-4401-AF04-F8592492FBA7}|TPCleanArchitecture.Presentation\\TPCleanArchitecture.Presentation.csproj|c:\\users\\eya-pc\\downloads\\tpcleanarchitecture.domain\\tpcleanarchitecture.domain\\tpcleanarchitecture.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2291EE42-334A-4401-AF04-F8592492FBA7}|TPCleanArchitecture.Presentation\\TPCleanArchitecture.Presentation.csproj|solutionrelative:tpcleanarchitecture.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2291EE42-334A-4401-AF04-F8592492FBA7}|TPCleanArchitecture.Presentation\\TPCleanArchitecture.Presentation.csproj|c:\\users\\eya-pc\\downloads\\tpcleanarchitecture.domain\\tpcleanarchitecture.domain\\tpcleanarchitecture.presentation\\tpcleanarchitecture.presentation.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{2291EE42-334A-4401-AF04-F8592492FBA7}|TPCleanArchitecture.Presentation\\TPCleanArchitecture.Presentation.csproj|solutionrelative:tpcleanarchitecture.presentation\\tpcleanarchitecture.presentation.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2291EE42-334A-4401-AF04-F8592492FBA7}|TPCleanArchitecture.Presentation\\TPCleanArchitecture.Presentation.csproj|c:\\users\\eya-pc\\downloads\\tpcleanarchitecture.domain\\tpcleanarchitecture.domain\\tpcleanarchitecture.presentation\\tpcleanarchitecture.presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2291EE42-334A-4401-AF04-F8592492FBA7}|TPCleanArchitecture.Presentation\\TPCleanArchitecture.Presentation.csproj|solutionrelative:tpcleanarchitecture.presentation\\tpcleanarchitecture.presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713B3805-2881-4409-940A-4472F078BAB9}|TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain.csproj|c:\\users\\eya-pc\\downloads\\tpcleanarchitecture.domain\\tpcleanarchitecture.domain\\tpcleanarchitecture.domain\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{713B3805-2881-4409-940A-4472F078BAB9}|TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain.csproj|solutionrelative:tpcleanarchitecture.domain\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713B3805-2881-4409-940A-4472F078BAB9}|TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain.csproj|c:\\users\\eya-pc\\downloads\\tpcleanarchitecture.domain\\tpcleanarchitecture.domain\\tpcleanarchitecture.domain\\tpcleanarchitecture.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{713B3805-2881-4409-940A-4472F078BAB9}|TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain.csproj|solutionrelative:tpcleanarchitecture.domain\\tpcleanarchitecture.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED73A69D-FC96-4677-880A-3E0D01849C74}|TPCleanArchitecture.Infrastucture\\TPCleanArchitecture.Infrastructure.csproj|c:\\users\\eya-pc\\downloads\\tpcleanarchitecture.domain\\tpcleanarchitecture.domain\\tpcleanarchitecture.infrastucture\\tpcleanarchitecture.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ED73A69D-FC96-4677-880A-3E0D01849C74}|TPCleanArchitecture.Infrastucture\\TPCleanArchitecture.Infrastructure.csproj|solutionrelative:tpcleanarchitecture.infrastucture\\tpcleanarchitecture.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713B3805-2881-4409-940A-4472F078BAB9}|TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain.csproj|c:\\users\\eya-pc\\downloads\\tpcleanarchitecture.domain\\tpcleanarchitecture.domain\\tpcleanarchitecture.domain\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{713B3805-2881-4409-940A-4472F078BAB9}|TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain.csproj|solutionrelative:tpcleanarchitecture.domain\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nour\\source\\repos\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED73A69D-FC96-4677-880A-3E0D01849C74}|TPCleanArchitecture.Infrastucture\\TPCleanArchitecture.Infrastructure.csproj|c:\\users\\eya-pc\\downloads\\tpcleanarchitecture.domain\\tpcleanarchitecture.domain\\tpcleanarchitecture.infrastucture\\migrations\\20241229123603_m0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED73A69D-FC96-4677-880A-3E0D01849C74}|TPCleanArchitecture.Infrastucture\\TPCleanArchitecture.Infrastructure.csproj|solutionrelative:tpcleanarchitecture.infrastucture\\migrations\\20241229123603_m0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED73A69D-FC96-4677-880A-3E0D01849C74}|TPCleanArchitecture.Infrastucture\\TPCleanArchitecture.Infrastructure.csproj|c:\\users\\eya-pc\\downloads\\tpcleanarchitecture.domain\\tpcleanarchitecture.domain\\tpcleanarchitecture.infrastucture\\migrations\\20241229140438_migration1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED73A69D-FC96-4677-880A-3E0D01849C74}|TPCleanArchitecture.Infrastucture\\TPCleanArchitecture.Infrastructure.csproj|solutionrelative:tpcleanarchitecture.infrastucture\\migrations\\20241229140438_migration1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20241229205555_firstmig.cs",
+              "DocumentMoniker": "C:\\Users\\eya-pc\\Downloads\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Infrastucture\\Migrations\\20241229205555_firstmig.cs",
+              "RelativeDocumentMoniker": "TPCleanArchitecture.Infrastucture\\Migrations\\20241229205555_firstmig.cs",
+              "ToolTip": "C:\\Users\\eya-pc\\Downloads\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Infrastucture\\Migrations\\20241229205555_firstmig.cs",
+              "RelativeToolTip": "TPCleanArchitecture.Infrastucture\\Migrations\\20241229205555_firstmig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T20:55:55.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomerDto.cs",
+              "DocumentMoniker": "C:\\Users\\eya-pc\\Downloads\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Application\\CustomerDto.cs",
+              "RelativeDocumentMoniker": "TPCleanArchitecture.Application\\CustomerDto.cs",
+              "ToolTip": "C:\\Users\\eya-pc\\Downloads\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Application\\CustomerDto.cs",
+              "RelativeToolTip": "TPCleanArchitecture.Application\\CustomerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T18:27:36.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20241229140438_migration1.cs",
+              "DocumentMoniker": "C:\\Users\\eya-pc\\Downloads\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Infrastucture\\Migrations\\20241229140438_migration1.cs",
+              "RelativeDocumentMoniker": "TPCleanArchitecture.Infrastucture\\Migrations\\20241229140438_migration1.cs",
+              "ToolTip": "C:\\Users\\eya-pc\\Downloads\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Infrastucture\\Migrations\\20241229140438_migration1.cs",
+              "RelativeToolTip": "TPCleanArchitecture.Infrastucture\\Migrations\\20241229140438_migration1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T14:04:38.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20241229123907_migration0.cs",
+              "DocumentMoniker": "C:\\Users\\eya-pc\\Downloads\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Infrastucture\\Migrations\\20241229123907_migration0.cs",
+              "RelativeDocumentMoniker": "TPCleanArchitecture.Infrastucture\\Migrations\\20241229123907_migration0.cs",
+              "ToolTip": "C:\\Users\\eya-pc\\Downloads\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Infrastucture\\Migrations\\20241229123907_migration0.cs",
+              "RelativeToolTip": "TPCleanArchitecture.Infrastucture\\Migrations\\20241229123907_migration0.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T12:39:07.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\eya-pc\\Downloads\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "TPCleanArchitecture.Presentation\\appsettings.json",
+              "ToolTip": "C:\\Users\\eya-pc\\Downloads\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Presentation\\appsettings.json",
+              "RelativeToolTip": "TPCleanArchitecture.Presentation\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-29T12:37:06.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TPCleanArchitecture.Presentation.http",
+              "DocumentMoniker": "C:\\Users\\eya-pc\\Downloads\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Presentation\\TPCleanArchitecture.Presentation.http",
+              "RelativeDocumentMoniker": "TPCleanArchitecture.Presentation\\TPCleanArchitecture.Presentation.http",
+              "ToolTip": "C:\\Users\\eya-pc\\Downloads\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Presentation\\TPCleanArchitecture.Presentation.http",
+              "RelativeToolTip": "TPCleanArchitecture.Presentation\\TPCleanArchitecture.Presentation.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-29T12:37:01.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\eya-pc\\Downloads\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Infrastucture\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "TPCleanArchitecture.Infrastucture\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\eya-pc\\Downloads\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Infrastucture\\CustomerRepository.cs",
+              "RelativeToolTip": "TPCleanArchitecture.Infrastucture\\CustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T11:52:14.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "dbo.CustomerFavoriteMovies.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DataBaseCleanArchitecture/True/SqlTable/dbo.CustomerFavoriteMovies.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DataBaseCleanArchitecture/True/SqlTable/dbo.CustomerFavoriteMovies.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-29T20:02:02.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20241229123603_m0.cs",
+              "DocumentMoniker": "C:\\Users\\eya-pc\\Downloads\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Infrastucture\\Migrations\\20241229123603_m0.cs",
+              "RelativeDocumentMoniker": "TPCleanArchitecture.Infrastucture\\Migrations\\20241229123603_m0.cs",
+              "ToolTip": "C:\\Users\\eya-pc\\Downloads\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Infrastucture\\Migrations\\20241229123603_m0.cs",
+              "RelativeToolTip": "TPCleanArchitecture.Infrastucture\\Migrations\\20241229123603_m0.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T12:36:03.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eya-pc\\Downloads\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "TPCleanArchitecture.Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\eya-pc\\Downloads\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Presentation\\Program.cs",
+              "RelativeToolTip": "TPCleanArchitecture.Presentation\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAIwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T12:22:44.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TPCleanArchitecture.Presentation.csproj",
+              "DocumentMoniker": "C:\\Users\\eya-pc\\Downloads\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Presentation\\TPCleanArchitecture.Presentation.csproj",
+              "RelativeDocumentMoniker": "TPCleanArchitecture.Presentation\\TPCleanArchitecture.Presentation.csproj",
+              "ToolTip": "C:\\Users\\eya-pc\\Downloads\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Presentation\\TPCleanArchitecture.Presentation.csproj",
+              "RelativeToolTip": "TPCleanArchitecture.Presentation\\TPCleanArchitecture.Presentation.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-29T12:21:33.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TPCleanArchitecture.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\eya-pc\\Downloads\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain.csproj",
+              "RelativeDocumentMoniker": "TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain.csproj",
+              "ToolTip": "C:\\Users\\eya-pc\\Downloads\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain.csproj",
+              "RelativeToolTip": "TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-29T12:20:29.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Users\\eya-pc\\Downloads\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Presentation\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "TPCleanArchitecture.Presentation\\Controllers\\MovieController.cs",
+              "ToolTip": "C:\\Users\\eya-pc\\Downloads\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Presentation\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "TPCleanArchitecture.Presentation\\Controllers\\MovieController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAuwFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T12:16:05.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\eya-pc\\Downloads\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Presentation\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "TPCleanArchitecture.Presentation\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\eya-pc\\Downloads\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Presentation\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "TPCleanArchitecture.Presentation\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwBkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T12:15:46.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TPCleanArchitecture.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\eya-pc\\Downloads\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Infrastucture\\TPCleanArchitecture.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "TPCleanArchitecture.Infrastucture\\TPCleanArchitecture.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\eya-pc\\Downloads\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Infrastucture\\TPCleanArchitecture.Infrastructure.csproj",
+              "RelativeToolTip": "TPCleanArchitecture.Infrastucture\\TPCleanArchitecture.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-29T11:50:33.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\eya-pc\\Downloads\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Infrastucture\\MovieRepository.cs",
+              "RelativeDocumentMoniker": "TPCleanArchitecture.Infrastucture\\MovieRepository.cs",
+              "ToolTip": "C:\\Users\\eya-pc\\Downloads\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Infrastucture\\MovieRepository.cs",
+              "RelativeToolTip": "TPCleanArchitecture.Infrastucture\\MovieRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T11:51:54.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\eya-pc\\Downloads\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Infrastucture\\Repository.cs",
+              "RelativeDocumentMoniker": "TPCleanArchitecture.Infrastucture\\Repository.cs",
+              "ToolTip": "C:\\Users\\eya-pc\\Downloads\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Infrastucture\\Repository.cs",
+              "RelativeToolTip": "TPCleanArchitecture.Infrastucture\\Repository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T11:51:36.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\eya-pc\\Downloads\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Infrastucture\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "TPCleanArchitecture.Infrastucture\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\eya-pc\\Downloads\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Infrastucture\\AppDBContext.cs",
+              "RelativeToolTip": "TPCleanArchitecture.Infrastucture\\AppDBContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAxwBYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T11:46:17.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\eya-pc\\Downloads\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Application\\CustomerService.cs",
+              "RelativeDocumentMoniker": "TPCleanArchitecture.Application\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\eya-pc\\Downloads\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Application\\CustomerService.cs",
+              "RelativeToolTip": "TPCleanArchitecture.Application\\CustomerService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAmwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T11:29:24.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "C:\\Users\\eya-pc\\Downloads\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Application\\MovieService.cs",
+              "RelativeDocumentMoniker": "TPCleanArchitecture.Application\\MovieService.cs",
+              "ToolTip": "C:\\Users\\eya-pc\\Downloads\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Application\\MovieService.cs",
+              "RelativeToolTip": "TPCleanArchitecture.Application\\MovieService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAwCsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T11:29:04.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\eya-pc\\Downloads\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Application\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "TPCleanArchitecture.Application\\ICustomerService.cs",
+              "ToolTip": "C:\\Users\\eya-pc\\Downloads\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Application\\ICustomerService.cs",
+              "RelativeToolTip": "TPCleanArchitecture.Application\\ICustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T11:27:24.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IMovieService.cs",
+              "DocumentMoniker": "C:\\Users\\eya-pc\\Downloads\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Application\\IMovieService.cs",
+              "RelativeDocumentMoniker": "TPCleanArchitecture.Application\\IMovieService.cs",
+              "ToolTip": "C:\\Users\\eya-pc\\Downloads\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Application\\IMovieService.cs",
+              "RelativeToolTip": "TPCleanArchitecture.Application\\IMovieService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T11:25:26.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\eya-pc\\Downloads\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Application\\IService.cs",
+              "RelativeDocumentMoniker": "TPCleanArchitecture.Application\\IService.cs",
+              "ToolTip": "C:\\Users\\eya-pc\\Downloads\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Application\\IService.cs",
+              "RelativeToolTip": "TPCleanArchitecture.Application\\IService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T11:23:11.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\eya-pc\\Downloads\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "TPCleanArchitecture.Domain\\ICustomerRepository.cs",
+              "ToolTip": "C:\\Users\\eya-pc\\Downloads\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain\\ICustomerRepository.cs",
+              "RelativeToolTip": "TPCleanArchitecture.Domain\\ICustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T11:15:36.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IMovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\eya-pc\\Downloads\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain\\IMovieRepository.cs",
+              "RelativeDocumentMoniker": "TPCleanArchitecture.Domain\\IMovieRepository.cs",
+              "ToolTip": "C:\\Users\\eya-pc\\Downloads\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain\\IMovieRepository.cs",
+              "RelativeToolTip": "TPCleanArchitecture.Domain\\IMovieRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T11:14:49.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\eya-pc\\Downloads\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain\\IRepository.cs",
+              "RelativeDocumentMoniker": "TPCleanArchitecture.Domain\\IRepository.cs",
+              "ToolTip": "C:\\Users\\eya-pc\\Downloads\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain\\IRepository.cs",
+              "RelativeToolTip": "TPCleanArchitecture.Domain\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T11:13:55.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\eya-pc\\Downloads\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain\\Review.cs",
+              "RelativeDocumentMoniker": "TPCleanArchitecture.Domain\\Review.cs",
+              "ToolTip": "C:\\Users\\eya-pc\\Downloads\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain\\Review.cs",
+              "RelativeToolTip": "TPCleanArchitecture.Domain\\Review.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T11:12:53.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\eya-pc\\Downloads\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain\\Movie.cs",
+              "RelativeDocumentMoniker": "TPCleanArchitecture.Domain\\Movie.cs",
+              "ToolTip": "C:\\Users\\eya-pc\\Downloads\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain\\Movie.cs",
+              "RelativeToolTip": "TPCleanArchitecture.Domain\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T11:12:07.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\eya-pc\\Downloads\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain\\Customer.cs",
+              "RelativeDocumentMoniker": "TPCleanArchitecture.Domain\\Customer.cs",
+              "ToolTip": "C:\\Users\\eya-pc\\Downloads\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain\\Customer.cs",
+              "RelativeToolTip": "TPCleanArchitecture.Domain\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T11:10:43.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Nour\\source\\repos\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Nour\\source\\repos\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\Nour\\source\\repos\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain\\Class1.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Nour\\source\\repos\\TPCleanArchitecture.Domain\\TPCleanArchitecture.Domain\\Class1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T09:40:58.153Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
